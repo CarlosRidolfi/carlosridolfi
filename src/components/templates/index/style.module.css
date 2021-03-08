@@ -1,0 +1,148 @@
+@font-face{
+    src: url('../../fonts/julius.ttf');
+    font-family: Julius;
+}
+
+@font-face{
+    src: url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+    font-family: Ubuntu;
+}
+
+@font-face{
+    src: url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+    font-family: Source;
+}
+
+.odin{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.section{
+    margin: 0 auto;
+    width: 100%;
+    height: 900px;
+    background-image: url('../../images/header.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container1{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container1 h1{
+    font-size: 62px;
+    color: #FFFFFF;
+    font-family: Ubuntu;
+}
+
+.container1 button{
+    margin-top: 10px;
+    font-size: 24px;
+    border-radius: 30px;
+    background-color: lightgray;
+    font-family: Ubuntu;
+}
+
+.sobre{
+    width: 100%;
+    height: 900px;
+    background-color: #BF895A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobre img{
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 50%;
+}
+
+.containersobre{
+    margin-left: 50px;
+    max-width: 1100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.containersobre h2{
+    margin-bottom: 30px;
+    font-size: 45px;
+    font-family: Ubuntu;
+}
+
+.containersobre p{
+    margin-bottom: 10px;
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-family: Ubuntu;
+}
+
+.cards{
+    width: 100%;
+    height: 800px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.card1{
+    width: 100%;
+    max-width: 1100px;
+    height: 700px;
+    background-image: url('../../images/card1.png');
+    margin: 10px;
+    border-radius: 10px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.card1 p{
+    font-size: 62px;
+    font-family: Ubuntu;
+    color: black;
+}
+
+.card2{
+    width: 100%;
+    max-width: 1100px;
+    height: 700px;
+    background-image: url('../../images/card2.png');
+    margin: 10px;
+    border-radius: 10px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.card2 p{
+    font-size: 62px;
+    color: black;
+    font-family: Ubuntu;
+}
