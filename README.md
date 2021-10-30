@@ -2,7 +2,7 @@
 
 ### Prazer, me chamo Carlos Ridolfi e sou um Software Engineer!
 - Full Stack Developer com foco em Front-End
-- HTML | CSS | Javascript | Python 💻
+- HTML | CSS | SCSS | Javascript | React | Python 💻
 - Linux 🐧
 - Estudando Data Science 🎲
 
