@@ -1,4 +1,4 @@
-![7d07a255678962d30d8717dcf5dbd266](https://user-images.githubusercontent.com/27232476/139542033-f072a20b-cd78-47cc-9fe0-ff65987e6a70.gif)
+![7d07a255678962d30d8717dcf5dbd266](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)
 
 ### Prazer, me chamo Carlos Ridolfi e sou um Software Engineer!
 - Full Stack Developer com foco em Front-End (Web Developer)
