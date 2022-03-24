@@ -1,7 +1,7 @@
 ![White-Oak-Official-Chillhop-Music-wallpaper](https://user-images.githubusercontent.com/27232476/142006943-538c42ca-babc-4df4-8b3d-5805c06283c0.gif)
 
 ### Prazer, me chamo Carlos Ridolfi e sou um Software Engineer!
-- Full Stack Developer com foco em Front-End (Web Developer)
+- Desenvolvedor de Software com foco em Front-end (Web Developer)
 - HTML&CSS | Javascript | React | Python 💻
 - Linux 🐧
 - Estudando Data Science 🎲
