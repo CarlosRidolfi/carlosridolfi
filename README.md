@@ -4,7 +4,6 @@
 - Software development focused in Front End (Web Developer)
 - HTML&CSS | Javascript | React | Python 💻
 - Linux 🐧 and Windows 🪟
-- Studying Data Science 🎲
 - In love with coffee and chillhop lofi 🦝
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosridolfi&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
