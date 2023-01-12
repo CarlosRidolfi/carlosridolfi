@@ -5,8 +5,3 @@
 - HTML&CSS | Javascript | React | Node 💻
 - Linux 🐧 and Windows 🪟
 - In love with coffee and chillhop lofi 🦝
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosridolfi&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosridolfi&count_private=true&show_icons=true&theme=dark)
-
-
