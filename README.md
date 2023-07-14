@@ -5,3 +5,5 @@
 - HTML&CSS | Javascript | React | Node 💻
 - Linux 🐧 and Windows 🪟
 - In love with coffee and chillhop lofi 🦝
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
