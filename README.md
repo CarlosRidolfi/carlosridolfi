@@ -5,3 +5,6 @@
 - HTML&CSS | Javascript | Typescript | React | Node | NextJs 💻
 - Linux 🐧 and Windows 🪟
 - In love with coffee and chillhop lofi 🦝
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,styledcomponents,redux,nextjs,nodejs,graphql,html,css,sass,git,docker,py,selenium,mongodb,mysql,vscode)](https://skillicons.dev)
