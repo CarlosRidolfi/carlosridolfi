@@ -2,7 +2,7 @@
 
 ### Hello, my name is Carlos Ridolfi and I'm a Software Developer!
 - Web Developer (Heavy Front End)
-- HTML&CSS | Javascript | Typescript | React | Node | NextJs 💻
+- HTML&CSS | Javascript | Typescript | Python | React | Node | NextJs 💻
 - Linux 🐧 and Windows 🪟
 - In love with coffee and chillhop lofi 🦝
 
